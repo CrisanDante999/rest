@@ -20,7 +20,8 @@ echo $lat;
 echo "<br>";
   echo "<br>";
 echo $long;
-
+echo "<br>";
+echo "cambiado";
 
 }//end if
 ?>
